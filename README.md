@@ -10,3 +10,19 @@ The program gives 2-3 word suggestions. Using the program is quite simple actual
 ./main --help
 ```
 This should bring up a "man" page for the application!
+
+Ofcourse this goes without saying but, you should have ncurses installed on your system and make (preferably)
+
+Once all dependencies are taken care of run :
+
+```bash
+make clean
+```
+
+```bash
+make
+```
+
+```bash
+./main
+```
