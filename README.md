@@ -16,13 +16,13 @@ Ofcourse this goes without saying but, you should have ncurses installed on your
 Once all dependencies are taken care of run :
 
 ```bash
-make clean
+make clean        #this is just to clean up
 ```
 
 ```bash
-make
+make              #create the binaries
 ```
 
 ```bash
-./main
+./main            #run the application
 ```
