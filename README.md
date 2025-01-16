@@ -8,5 +8,5 @@ The program gives 2-3 word suggestions. Using the program is quite simple actual
 
 ```bash
 ./main --help
-
+```
 This should bring up a "man" page for the application!
